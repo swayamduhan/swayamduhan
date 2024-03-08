@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swayamduhan
 - 👀 I’m interested in AI and Blockchain
 - 🌱 I’m currently learning MERN along with Blockchain
-- 📫 You can reach me at workplace.swayam@gmail.com or @swxyamfr on X
+- 📫 You can reach me at workplace.swayam@gmail.com or @swayambuilds on X
 
 <!---
 swayamduhan/swayamduhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
