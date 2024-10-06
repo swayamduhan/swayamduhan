@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @swayamduhan
-- 👀 I’m interested in AI and Blockchain
-- 🌱 I’m currently learning MERN along with Blockchain
+- 👋 Hi, I’m Swayam Duhan
+- 👀 I’m interested in Blockchain & Web Dev
+- 🌱 Currently learning Creative / Interactive Web Development + Designing
 - 📫 You can reach me at workplace.swayam@gmail.com or @swayambuilds on X
 
 <!---
