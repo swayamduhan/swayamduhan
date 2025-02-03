@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swayam Duhan
 - 👀 I’m interested in Blockchain & Web Dev
-- 🌱 Currently learning Creative / Interactive Web Development + Designing
+- 🌱 Currently learning Creative Web Development + Designing & Extensive backend designs!
 - 📫 You can reach me at workplace.swayam@gmail.com or @swayambuilds on X
 
 <!---
