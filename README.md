@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Swayam Duhan
-- 👀 I’m interested in Blockchain & Web Dev
-- 🌱 Currently learning Creative Web Development + Designing & Extensive backend designs!
+- 👀 Proficient at Full stack and some devops
+- 🌱 Currently building microservices in Go
+- ✨ Learning ML algorithms at the moment.
 - 📫 You can reach me at workplace.swayam@gmail.com or @swayambuilds on X
 
 <!---
