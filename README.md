@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **web design, ml and microservices**
 
-- 👀 I like reading about **low level programs and system design**
+- 👀 I like reading **low level programs && system design blogs**
 
 - 📫 How to reach me **workplace.swayam@gmail.com**
 
