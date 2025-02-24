@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building scalable services and 🎀pretty frontends**
 
-- 🌱 I’m currently learning **ML and creative web design**
+- 🌱 Currently learning **ML ( pushing through the math T-T ) and creative web development**
 
 - 💬 Ask me about **web design, ml and microservices**
 
