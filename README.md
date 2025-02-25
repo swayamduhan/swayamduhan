@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Swayam Duhan! <img src="https://media.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif?cid=790b7611gklqydcgpfkv9jrgwpgxh2n9wix4p247rk6yyakt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" /></h1>
-<h3 align="center" ><img src="https://i.pinimg.com/originals/b9/4c/d6/b94cd664a34ce651d42c87f60bbce04e.png" width="50"/> wannabe master of multiple trades</h3>
+<h3 align="center" ><img src="https://i.pinimg.com/originals/b9/4c/d6/b94cd664a34ce651d42c87f60bbce04e.png" width="50"/> wannabe master of all trades</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayamduhan&label=Profile%20views&color=005566&style=flat" alt="swayamduhan" /> </p>
 
