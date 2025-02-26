@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/swayambuilds" target="blank"><img src="https://img.shields.io/twitter/follow/swayambuilds?logo=twitter&style=for-the-badge" alt="swayambuilds" /></a> </p>
 
-- 🔭 I’m currently working on **building scalable services and 🎀pretty frontends**
+- 🔭 Working on **building scalable services and 🎀pretty frontends**
 
 - 🌱 Currently learning **ML ( pushing through the math T-T ) and creative web development**
 
