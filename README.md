@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Swayam Duhan! <img src="https://media.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif?cid=790b7611gklqydcgpfkv9jrgwpgxh2n9wix4p247rk6yyakt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" /></h1>
-<h3 align="center" ><img src="https://i.pinimg.com/originals/b9/4c/d6/b94cd664a34ce651d42c87f60bbce04e.png" width="50"/> wannabe master of all trades</h3>
+<h3 align="center" ><img src="https://i.pinimg.com/originals/b9/4c/d6/b94cd664a34ce651d42c87f60bbce04e.png" width="50"/> a wannabe master of all trades<br><s>i am passionate</s> no lol it's not forced, i do actually love to code.</h3>
+
+<br></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayamduhan&label=Profile%20views&color=005566&style=flat" alt="swayamduhan" /> </p>
 
@@ -7,15 +9,15 @@
 
 - 🔭 Working on **building scalable services and 🎀pretty frontends**
 
-- 🌱 Currently learning **ML ( pushing through the math T-T ) and creative web development**
+- 🌱 Currently learning how to **gaslight mathematical equations to predict future** and **creative UI designs**
 
-- 💬 Ask me about **web design, ml and microservices**
+- 💬 Ask me about **web development, devops and ai**
 
-- 👀 I like reading **low level programs && system design blogs**
+- 👀 I love tearing apart **low-level programs** && **system architectures** to see what makes them tick
 
-- 📫 How to reach me **workplace.swayam@gmail.com**
+- 📫 Reach me at mail: **workplace.swayam@gmail.com** or twitter: **swayambuilds**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me here (open for collabs):</h3>
 <p align="left">
 <a href="https://twitter.com/swayambuilds" target="blank"><img align="center" src="https://github.com/dheereshagrwal/coloured-icons/blob/master/public/logos/social%20media/x/x-light.svg" alt="swayambuilds" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swayam-duhan-5a86bb127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swayam-duhan-5a86bb127" height="30" width="40" /></a>
