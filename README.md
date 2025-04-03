@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **web development, devops and ai**
 
-- 👀 I love tearing apart **low-level programs** && **system architectures** to see what makes them tick
+- 👀 Love digging into **low-level programs** && **system architectures** to see what makes them tick
 
 - 📫 Reach me at mail: **workplace.swayam@gmail.com** or twitter: **swayambuilds**
 
