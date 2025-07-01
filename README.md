@@ -9,7 +9,7 @@
 
 - 🔭 Working on **building scalable services and 🎀pretty frontends**
 
-- 🌱 Currently learning how to **gaslight mathematical equations to predict future** and **creative UI designs**
+- 🌱 Currently learning **3D Graphics and Shaders**
 
 - 💬 Ask me about **web development, devops and ai**
 
