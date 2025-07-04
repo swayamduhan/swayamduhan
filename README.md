@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **3D Graphics and Shaders**
 
-- 💬 Ask me about **web development, devops and ai**
+- 💬 Ask me about **web dev, design and cloud**
 
 - 👀 Love digging into **low-level programs** && **system architectures** to see what makes them tick
 
