@@ -1,17 +1,17 @@
 <h2>Hi, I'm Swayam Duhan! <img src="https://media.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif?cid=790b7611gklqydcgpfkv9jrgwpgxh2n9wix4p247rk6yyakt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" /></h2>  
+<h3>a wannabe master of all trades<br><s>i am passionate</s> haha no it's not forced, i do actually love to code.</h3>
 
 ![Rain Lofi GIF](assets/rain.gif)
-<h3>a wannabe master of all trades<br><s>i am passionate</s> haha no it's not forced, i do actually love to code.</h3>
 
 <br>  
 
 <h3>About Me</h3>  
 
-- Making the web a better place
-- Catch me coming up with experimental designs because they are cool
-- Working on clean UIs, subtle motion and 3D graphics for the web
+- Making the 🕸️web a better place
+- Catch me coming up with experimental designs because they are cool🥶
+- Working on building 🎀clean UIs, 🎐subtle motion and 🌆3D graphics for the web
 - Learning **ADVANCED SHADER MATH** and **WEB MOTION DESIGNING** at the moment
-- Part time backend & cloud engineer
+- Part time 💻backend & ☁️cloud engineer
 - Active on X, I dont use LinkedIn
 
 <h3 align="left">Connect with me (pls follow :<)</h3>
