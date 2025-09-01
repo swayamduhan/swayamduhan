@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me (pls follow :<)</h3>
 <p align="left">
-<p> <a href="https://x.com/zeroedswayam" target="blank"><img src="https://img.shields.io/twitter/follow/zeroedswayam?logo=twitter&style=for-the-badge" alt="swayambuilds" /></a> </p>  
+<p> <a href="https://x.com/swayam0d" target="blank"><img src="https://img.shields.io/twitter/follow/swayam0d?logo=twitter&style=for-the-badge" alt="swayam0d" /></a> </p>  
 </p>
 
 ### Tech I use:
