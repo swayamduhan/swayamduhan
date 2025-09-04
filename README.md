@@ -1,25 +1,25 @@
 <h2>Hi, I'm Swayam Duhan! <img src="https://media.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif?cid=790b7611gklqydcgpfkv9jrgwpgxh2n9wix4p247rk6yyakt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" /></h2>  
-<h3>a wannabe master of all trades<br><s>i am passionate</s> haha no it's not forced, i do actually love to code.</h3>
+<h3>polymath ⋅ my work speaks for me<br><s>i am passionate</s> haha no it's not forced, i do actually love to code.</h3>
 
 ![Rain Lofi GIF](assets/rain.gif)
 
 <br>  
 
-<h3>About Me</h3>  
+<h3>about me</h3>  
 
-- Making the 🕸️web a better place
+- Making the 🕸️web tell a story
 - Catch me coming up with experimental designs because they are cool🥶
 - Working on building 🎀clean UIs, 🎐subtle motion and 🌆3D graphics for the web
 - Learning **ADVANCED SHADER MATH** and **WEB MOTION DESIGNING** at the moment
 - Part time 💻backend & ☁️cloud engineer
 - Active on X, I dont use LinkedIn
 
-<h3 align="left">Connect with me (pls follow :<)</h3>
+<h3 align="left">connect with me (pls follow :<)</h3>
 <p align="left">
 <p> <a href="https://x.com/swayam0d" target="blank"><img src="https://img.shields.io/twitter/follow/swayam0d?logo=twitter&style=for-the-badge" alt="swayam0d" /></a> </p>  
 </p>
 
-### Tech I use:
+### tech i use
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
